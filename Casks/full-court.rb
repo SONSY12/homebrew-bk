@@ -1,6 +1,6 @@
 cask "full-court" do
-  version "1.1.0"
-  sha256 "b9cf2af26ca49026bc3c65a5eda20a70a25f21411f726de9f82ae7af5a3713ad"
+  version "2.0.0"
+  sha256 "79a38b1e7dac9c3b2c1c36a3e87d321ebd023e32433b0199a9a192f29a669074"
 
   url "https://github.com/SONSY12/homebrew-bk/releases/download/v#{version}/FullCourt-#{version}-macOS.zip"
   name "Full Court — 1 on 1"
