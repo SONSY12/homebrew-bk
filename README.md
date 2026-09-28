@@ -5,8 +5,12 @@ Full Court is a keyboard-only native macOS one-on-one basketball game.
 ## Install
 
 ```sh
+brew tap SONSY12/bk
+brew trust --cask SONSY12/bk/full-court
 brew install --cask SONSY12/bk/full-court
 ```
+
+Homebrew 7 and later require an explicit trust step before loading a cask from a non-official tap. The command above trusts only this cask, not every cask in the tap.
 
 The app requires macOS 13 Ventura or later.
 
