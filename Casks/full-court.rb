@@ -7,7 +7,7 @@ cask "full-court" do
   desc "Keyboard-only native macOS one-on-one basketball game"
   homepage "https://github.com/SONSY12/homebrew-bk"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "FullCourt.app"
 end
