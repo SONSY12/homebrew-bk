@@ -1,6 +1,6 @@
 cask "full-court-stickman" do
-  version "0.2.2"
-  sha256 "cc613cf9414e99ab68e03cfdc059eca2100bd99019c4360dbce22d6b01d28ea0"
+  version "0.2.3"
+  sha256 "6a75bf63e94a1006f709aba9624ca54d255c09ac571d0162792a331bf57efb91"
 
   url "https://github.com/SONSY12/full-court-stickman/releases/download/v#{version}/Full-Court-Stickman.zip"
   name "Full Court Stickman"
