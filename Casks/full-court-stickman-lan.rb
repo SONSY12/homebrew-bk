@@ -1,6 +1,6 @@
 cask "full-court-stickman-lan" do
-  version "0.5.0-beta.3"
-  sha256 "4a9e7e6f1024bfa7450bb14ca544e304d3cce45068217f81d31a935b6aec4dc1"
+  version "0.5.0-beta.4"
+  sha256 "31ee98c2b11313ab728ed611a8aa1cdb79a59634e08a661c9100fc1b1b2aaf31"
 
   url "https://github.com/SONSY12/full-court-stickman/releases/download/v#{version}/Full-Court-Stickman.zip"
   name "Full Court Stickman LAN Beta"
